@@ -1,0 +1,2 @@
+https://pure-beach-88937.herokuapp.com/
+https://git.heroku.com/pure-beach-88937.git
